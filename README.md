@@ -1,10 +1,10 @@
-Exmcoin - a fork of Litecoin version with fast blocks and transactions. Like Litecoin it uses scrypt as a proof of work scheme.
+Exmcoin - a fork of Bitcoin version with fast blocks and transactions. 
 
-	- Total coins will be 165,888,000.
+	- Total coins will be 5,000,000,000
 	- 12 seconds block target
 	- Difficulty retargets once every hour
-	- Each block will have 32 coins, will be halved every year (or 2,592,000 blocks).
-	- 4 confirmations per transaction.
+	- Each block will have 32 coins, will be halved every year
+	- 1 confirmations per transaction.
 	- Ports: connection 9526, RPC 9527.
 
 Development process
@@ -20,7 +20,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-official, stable release versions of Litecoin.
+official, stable release versions of Bitcoin.
 
 Feature branches are created when there are major new features being
 worked on by several people.
